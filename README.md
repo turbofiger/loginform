@@ -1,6 +1,7 @@
 # loginformapp
 
-A new Flutter application.
+main.dart has two ways for implementation LoginForm: with Listeners and with Provider
+Please, uncomment for each way implementation
 
 ## Getting Started
 
